@@ -4,6 +4,7 @@
 //
 //  Created by Yein Jo on 12/4/15.
 //  Copyright © 2015 Yein Jo. All rights reserved.
+//  Hi Yein
 //
 
 import UIKit
@@ -22,4 +23,3 @@ class ViewController: UIViewController {
 
 
 }
-
